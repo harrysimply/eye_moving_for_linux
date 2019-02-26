@@ -1,5 +1,4 @@
 from Eyetracking_main import *
-from Eyetracking_process import *
 from PyQt5.QtWidgets import QApplication,QMainWindow,QDialog,QMessageBox
 from PyQt5.QtCore import QTimer,QThread,pyqtSignal
 from PyQt5.QtGui import QIcon,QFont,QImage,QPixmap
